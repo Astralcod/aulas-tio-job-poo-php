@@ -1,0 +1,19 @@
+{
+    "name": "astral/curso-poo-php",
+    "description": "curso completo de PHP",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Astral\\CursoPooPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Astral",
+            "email": "gabrielahoste@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "symfony/var-dumper": "*"
+    }
+}
